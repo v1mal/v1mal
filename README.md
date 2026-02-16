@@ -2,7 +2,7 @@
 
 I design and build production-ready WordPress systems, custom plugins, and automation-driven web platforms.
 
-Currently building OpenScene, a structured community engine built on WordPress with custom tables, REST architecture, moderation systems, and hybrid SSR + SPA patterns.
+Currently building OpenScene Engine, a structured community engine built on WordPress with custom tables, REST architecture, moderation systems, and hybrid SSR + SPA patterns.
 
 What I Build
 
