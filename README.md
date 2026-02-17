@@ -20,6 +20,9 @@ Core plugin powering structured feed-based communities with custom DB schema and
 openscene-classic-shell
 Frontend shell integrating React SPA patterns with WordPress SSR.
 
+first-setup-utility
+WordPress Plugin to clean and harden a fresh WordPress install so it is ready to build.
+
 headless-wp-nuxt
 Headless WordPress experiment using Nuxt + REST architecture.
 
